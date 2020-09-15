@@ -1,4 +1,4 @@
-package ru.sibsutis.workwirhgitlab
+package ru.sibsutis.workwithgitlab
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

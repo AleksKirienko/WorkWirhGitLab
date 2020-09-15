@@ -1,4 +1,4 @@
-package ru.sibsutis.workwirhgitlab
+package ru.sibsutis.workwithgitlab
 
 class Functions {
     public fun myMin(a: Int, b: Int): Int {

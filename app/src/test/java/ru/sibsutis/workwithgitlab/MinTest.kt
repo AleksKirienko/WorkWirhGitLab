@@ -1,4 +1,4 @@
-package ru.sibsutis.workwirhgitlab
+package ru.sibsutis.workwithgitlab
 
 import org.junit.Test
 
